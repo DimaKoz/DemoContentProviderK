@@ -1,0 +1,2 @@
+include ':appProvider', ':receiver'
+rootProject.name='ContenProviderApp'
